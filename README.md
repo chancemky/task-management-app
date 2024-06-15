@@ -1,6 +1,5 @@
-# Task Management Application: <a href="https://666d69f856f07cad8b1b0482--dashing-dasik-a8b086.netlify.app/" target="_blank">Visit Here</a>
+# Task Management Application: <a href="https://666d77daa29f4e640a7ed73d--verdant-rolypoly-2f78eb.netlify.app/" target="_blank">Visit Here</a>
 <img src="assets/images/website-image.png" width="100%" alt="Task Management Application"/>
-</a>
 This is a Task Management Application that allows users to input tasks and display them in a list format with options to edit or delete each task. Tasks are stored locally using localStorage, ensuring persistence across page reloads. Key features include dynamic UI updates upon user actions (add, edit, delete tasks) and responsive design for mobile and desktop views.
 
 ## Tech used: 
