@@ -1,4 +1,4 @@
-# Task Management Application: <a href="https://666d77daa29f4e640a7ed73d--verdant-rolypoly-2f78eb.netlify.app/" target="_blank">Visit Here</a>
+# Task Management Application: <a href="https://task-management-app00.netlify.app/" target="_blank">Visit Here</a>
 <img src="assets/images/website-image.png" width="100%" alt="Task Management Application"/>
 This is a Task Management Application that allows users to input tasks and display them in a list format with options to edit or delete each task. Tasks are stored locally using localStorage, ensuring persistence across page reloads. Key features include dynamic UI updates upon user actions (add, edit, delete tasks) and responsive design for mobile and desktop views.
 
@@ -9,7 +9,7 @@ This is a Task Management Application that allows users to input tasks and displ
 
 <li>Implement asynchronous data handling (e.g., AJAX) to update the UI dynamically without full page refreshes.</li>
 <li>Add ARIA attributes and roles to enhance screen reader compatibility and keyboard navigation.</li>
-<li>Validate user inputs and handle potential errors (e.g., empty tasks) with informative messages or UI cues.</li>
+<li>Ensure all interactive elements (e.g., buttons, input fields) are accessible via keyboard, with clear focus styles and logical tab order.</li>
 <li>Test and refine CSS media queries to improve layout consistency and usability on different devices</li>
 
 ## Lessons Learned:
