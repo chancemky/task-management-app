@@ -84,6 +84,9 @@ function activateCancelListeners() {
 }
 
 function createItem(item) {
+    if (item.value.trim() === "") {  // Check if the input is empty or contains only whitespace
+        return;  // Exit the function if the input is empty
+    }
     itemsArray.push(item.value); // Add new item to itemsArray
     localStorage.setItem('items', JSON.stringify(itemsArray)); // Update localStorage with updated itemsArray
     location.reload(); // Reload the page to display updated list
